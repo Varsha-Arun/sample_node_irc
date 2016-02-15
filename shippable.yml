@@ -15,7 +15,7 @@ env:
 build:
 
   ci:
-    - ps -eax
+    - ps -eax dfd
     - ls -al
     
 #integrations:
