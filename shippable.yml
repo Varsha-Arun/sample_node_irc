@@ -18,11 +18,11 @@ build:
     - ps -eax
     - ls -al
     
-integrations:
-  notifications:
-    - integrationName: irc
-      type: irc
-      recipients:
-        - "chat.freenode.net#test-irc"
-      on_start: always
-      on_success: always
+#integrations:
+ # notifications:
+  #  - integrationName: irc
+   #   type: irc
+    #  recipients:
+     #   - "chat.freenode.net#test-irc"
+      #on_start: always
+      #on_success: always
