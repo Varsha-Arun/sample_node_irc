@@ -16,7 +16,7 @@ build:
 
   ci:
     - ps -eax
-    - ls -al cv
+    - ls -al
     
 #integrations:
  # notifications:
